@@ -1,0 +1,24 @@
+# Local properties (API keys — never push this)
+local.properties
+
+# Android build outputs
+*.iml
+.gradle/
+/local.properties
+/.idea/
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+*.apk
+*.aab
+*.ap_
+
+# Kotlin
+*.class
+*.kotlin_module
+
+# Signing configs
+*.jks
+*.keystore
